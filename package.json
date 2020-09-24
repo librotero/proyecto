@@ -1,0 +1,19 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "una pagina de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "author": "jesus Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
+  }
+}

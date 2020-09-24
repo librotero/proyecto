@@ -1,1 +1,67 @@
-/* No CSS *//*# sourceMappingURL=estiloi.css.map */
+@charset "UTF-8";
+/*Variables*/
+body {
+  background-image: url(img/1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+/*botones colores*/
+.btn {
+  background-color: #d400ff;
+  color: white;
+  margin-top: 25px;
+}
+
+/*Sección 1*/
+/*medidas de la barra de navegación*/
+.navbar-nav {
+  margin-left: 700px;
+}
+
+/* color de la barra*/
+.navbar {
+  background-color: rgba(0, 255, 255, 0);
+  margin-left: 400px;
+}
+
+/*Sección 2*/
+/*ubicación texto 1*/
+.texto1 {
+  padding: 200px 300px 400px 300px;
+}
+
+/*Sección 3*/
+header {
+  margin-bottom: 50px;
+}
+
+/*Sección 4*/
+.texto2 {
+  padding: 200px 500px 350px 500px;
+  background-image: url(img/3.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+/*Sección 5*/
+/*Sección 6*/
+footer {
+  background-image: url(img/2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 50px;
+}
+
+.icon {
+  margin-left: 50px;
+}
+
+.page-footer {
+  margin-top: 75px;
+}
+
+.imgs6 {
+  margin-left: 35px;
+}
+/*# sourceMappingURL=estiloi.css.map */
